@@ -12,5 +12,5 @@ Hier werden für einen Pandemieplan Python-Programme bereitgestellt. Weiterhin G
 
 | Notebook | Inhalt |
 |----------|--------|
-| `2026-01-07-Import_EXCEL.ipynb` | Monte-Carlo-Simulation und Export der Ergebnisse. Für vorgegebene Erkrankungsraten (15\,\%, 30\,\%, 50\,\% und 70\,\%) werden die zentralen Modellparameter (Konsultationsanteil, Hospitalisierungsrate, Letalität) als Dreiecksverteilungen simuliert (Monte-Carlo-Simulation). Die Erkrankungsraten sowie die zentralen Modellparameter können verändert werden. |
+| `2026-01-07-Export_nach_EXCEL.ipynb` | Monte-Carlo-Simulation und Export der Ergebnisse. Für vorgegebene Erkrankungsraten (15\,\%, 30\,\%, 50\,\% und 70\,\%) werden die zentralen Modellparameter (Konsultationsanteil, Hospitalisierungsrate, Letalität) als Dreiecksverteilungen simuliert (Monte-Carlo-Simulation). Die Erkrankungsraten sowie die zentralen Modellparameter können verändert werden. |
 ___
